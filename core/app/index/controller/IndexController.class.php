@@ -3,7 +3,7 @@
 namespace core\app\index\controller;
 
 //父类控制器
-use core\tool\Tool;
+//use core\tool\Tool;
 use core\plugin\Controller;
 
 class IndexController extends Controller
